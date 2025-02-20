@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014070001</villageId>
+    <villageName>北源村</villageName>
+  </village>
+  <village>
+    <villageId>10014070002</villageId>
+    <villageName>泰源村</villageName>
+  </village>
+  <village>
+    <villageId>10014070003</villageId>
+    <villageName>東河村</villageName>
+  </village>
+  <village>
+    <villageId>10014070004</villageId>
+    <villageName>尚德村</villageName>
+  </village>
+  <village>
+    <villageId>10014070005</villageId>
+    <villageName>隆昌村</villageName>
+  </village>
+  <village>
+    <villageId>10014070006</villageId>
+    <villageName>興昌村</villageName>
+  </village>
+  <village>
+    <villageId>10014070007</villageId>
+    <villageName>都蘭村</villageName>
+  </village>
+</villages>

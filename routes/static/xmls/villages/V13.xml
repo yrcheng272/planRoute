@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014120001</villageId>
+    <villageName>廣原村</villageName>
+  </village>
+  <village>
+    <villageId>10014120002</villageId>
+    <villageName>霧鹿村</villageName>
+  </village>
+  <village>
+    <villageId>10014120003</villageId>
+    <villageName>利稻村</villageName>
+  </village>
+  <village>
+    <villageId>10014120004</villageId>
+    <villageName>海端村</villageName>
+  </village>
+  <village>
+    <villageId>10014120005</villageId>
+    <villageName>崁頂村</villageName>
+  </village>
+  <village>
+    <villageId>10014120006</villageId>
+    <villageName>加拿村</villageName>
+  </village>
+</villages>

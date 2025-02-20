@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000240001</villageId>
+    <villageName>楠西里</villageName>
+  </village>
+  <village>
+    <villageId>67000240002</villageId>
+    <villageName>灣丘里</villageName>
+  </village>
+  <village>
+    <villageId>67000240003</villageId>
+    <villageName>密枝里</villageName>
+  </village>
+  <village>
+    <villageId>67000240004</villageId>
+    <villageName>照興里</villageName>
+  </village>
+  <village>
+    <villageId>67000240005</villageId>
+    <villageName>鹿田里</villageName>
+  </village>
+  <village>
+    <villageId>67000240006</villageId>
+    <villageName>龜丹里</villageName>
+  </village>
+  <village>
+    <villageId>67000240007</villageId>
+    <villageName>東勢里</villageName>
+  </village>
+</villages>

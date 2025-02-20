@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013280001</villageId>
+    <villageName>瑪家村</villageName>
+  </village>
+  <village>
+    <villageId>10013280002</villageId>
+    <villageName>北葉村</villageName>
+  </village>
+  <village>
+    <villageId>10013280003</villageId>
+    <villageName>凉山村</villageName>
+  </village>
+  <village>
+    <villageId>10013280004</villageId>
+    <villageName>佳義村</villageName>
+  </village>
+  <village>
+    <villageId>10013280005</villageId>
+    <villageName>排灣村</villageName>
+  </village>
+  <village>
+    <villageId>10013280006</villageId>
+    <villageName>三和村</villageName>
+  </village>
+</villages>

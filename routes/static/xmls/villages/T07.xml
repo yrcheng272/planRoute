@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013070001</villageId>
+    <villageName>新田村</villageName>
+  </village>
+  <village>
+    <villageId>10013070002</villageId>
+    <villageName>麟頂村</villageName>
+  </village>
+  <village>
+    <villageId>10013070003</villageId>
+    <villageName>麟蹄村</villageName>
+  </village>
+  <village>
+    <villageId>10013070004</villageId>
+    <villageName>麟趾村</villageName>
+  </village>
+  <village>
+    <villageId>10013070005</villageId>
+    <villageName>田中村</villageName>
+  </village>
+  <village>
+    <villageId>10013070006</villageId>
+    <villageName>田心村</villageName>
+  </village>
+  <village>
+    <villageId>10013070007</villageId>
+    <villageName>田道村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>68000130001</villageId>
+    <villageName>三民里</villageName>
+  </village>
+  <village>
+    <villageId>68000130002</villageId>
+    <villageName>澤仁里</villageName>
+  </village>
+  <village>
+    <villageId>68000130003</villageId>
+    <villageName>義盛里</villageName>
+  </village>
+  <village>
+    <villageId>68000130004</villageId>
+    <villageName>霞雲里</villageName>
+  </village>
+  <village>
+    <villageId>68000130005</villageId>
+    <villageName>長興里</villageName>
+  </village>
+  <village>
+    <villageId>68000130006</villageId>
+    <villageName>三光里</villageName>
+  </village>
+  <village>
+    <villageId>68000130007</villageId>
+    <villageName>奎輝里</villageName>
+  </village>
+  <village>
+    <villageId>68000130008</villageId>
+    <villageName>華陵里</villageName>
+  </village>
+  <village>
+    <villageId>68000130009</villageId>
+    <villageName>羅浮里</villageName>
+  </village>
+  <village>
+    <villageId>68000130010</villageId>
+    <villageName>高義里</villageName>
+  </village>
+</villages>

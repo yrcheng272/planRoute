@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013240001</villageId>
+    <villageName>滿州村</villageName>
+  </village>
+  <village>
+    <villageId>10013240002</villageId>
+    <villageName>里德村</villageName>
+  </village>
+  <village>
+    <villageId>10013240003</villageId>
+    <villageName>永靖村</villageName>
+  </village>
+  <village>
+    <villageId>10013240004</villageId>
+    <villageName>港口村</villageName>
+  </village>
+  <village>
+    <villageId>10013240005</villageId>
+    <villageName>响林村</villageName>
+  </village>
+  <village>
+    <villageId>10013240006</villageId>
+    <villageName>長樂村</villageName>
+  </village>
+  <village>
+    <villageId>10013240007</villageId>
+    <villageName>九棚村</villageName>
+  </village>
+  <village>
+    <villageId>10013240008</villageId>
+    <villageName>港仔村</villageName>
+  </village>
+  <village>
+    <villageId>10013240S01</villageId>
+    <villageName/>
+  </village>
+</villages>

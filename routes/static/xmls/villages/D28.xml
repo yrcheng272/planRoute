@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000200001</villageId>
+    <villageName>新市里</villageName>
+  </village>
+  <village>
+    <villageId>67000200002</villageId>
+    <villageName>新和里</villageName>
+  </village>
+  <village>
+    <villageId>67000200003</villageId>
+    <villageName>社內里</villageName>
+  </village>
+  <village>
+    <villageId>67000200004</villageId>
+    <villageName>大洲里</villageName>
+  </village>
+  <village>
+    <villageId>67000200005</villageId>
+    <villageName>豐華里</villageName>
+  </village>
+  <village>
+    <villageId>67000200006</villageId>
+    <villageName>三舍里</villageName>
+  </village>
+  <village>
+    <villageId>67000200007</villageId>
+    <villageName>大營里</villageName>
+  </village>
+  <village>
+    <villageId>67000200008</villageId>
+    <villageName>大社里</villageName>
+  </village>
+  <village>
+    <villageId>67000200009</villageId>
+    <villageName>潭頂里</villageName>
+  </village>
+  <village>
+    <villageId>67000200010</villageId>
+    <villageName>港墘里</villageName>
+  </village>
+  <village>
+    <villageId>67000200011</villageId>
+    <villageName>永就里</villageName>
+  </village>
+</villages>

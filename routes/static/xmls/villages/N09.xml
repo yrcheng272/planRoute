@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10007040001</villageId>
+    <villageName>線西村</villageName>
+  </village>
+  <village>
+    <villageId>10007040002</villageId>
+    <villageName>頂庄村</villageName>
+  </village>
+  <village>
+    <villageId>10007040003</villageId>
+    <villageName>寓埔村</villageName>
+  </village>
+  <village>
+    <villageId>10007040004</villageId>
+    <villageName>塭仔村</villageName>
+  </village>
+  <village>
+    <villageId>10007040005</villageId>
+    <villageName>溝內村</villageName>
+  </village>
+  <village>
+    <villageId>10007040006</villageId>
+    <villageName>下犁村</villageName>
+  </village>
+  <village>
+    <villageId>10007040007</villageId>
+    <villageName>頂犁村</villageName>
+  </village>
+  <village>
+    <villageId>10007040008</villageId>
+    <villageName>德興村</villageName>
+  </village>
+</villages>

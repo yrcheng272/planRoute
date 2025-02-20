@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014100001</villageId>
+    <villageName>大竹村</villageName>
+  </village>
+  <village>
+    <villageId>10014100002</villageId>
+    <villageName>大鳥村</villageName>
+  </village>
+  <village>
+    <villageId>10014100003</villageId>
+    <villageName>大武村</villageName>
+  </village>
+  <village>
+    <villageId>10014100004</villageId>
+    <villageName>尚武村</villageName>
+  </village>
+  <village>
+    <villageId>10014100005</villageId>
+    <villageName>南興村</villageName>
+  </village>
+</villages>

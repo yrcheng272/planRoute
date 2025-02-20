@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000260001</villageId>
+    <villageName>光和里</villageName>
+  </village>
+  <village>
+    <villageId>67000260002</villageId>
+    <villageName>榮和里</villageName>
+  </village>
+  <village>
+    <villageId>67000260003</villageId>
+    <villageName>左鎮里</villageName>
+  </village>
+  <village>
+    <villageId>67000260004</villageId>
+    <villageName>中正里</villageName>
+  </village>
+  <village>
+    <villageId>67000260005</villageId>
+    <villageName>睦光里</villageName>
+  </village>
+  <village>
+    <villageId>67000260006</villageId>
+    <villageName>內庄里</villageName>
+  </village>
+  <village>
+    <villageId>67000260007</villageId>
+    <villageName>澄山里</villageName>
+  </village>
+  <village>
+    <villageId>67000260008</villageId>
+    <villageName>岡林里</villageName>
+  </village>
+  <village>
+    <villageId>67000260009</villageId>
+    <villageName>草山里</villageName>
+  </village>
+  <village>
+    <villageId>67000260010</villageId>
+    <villageName>二寮里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000220001</villageId>
+    <villageName>明和里</villageName>
+  </village>
+  <village>
+    <villageId>67000220002</villageId>
+    <villageName>南洲里</villageName>
+  </village>
+  <village>
+    <villageId>67000220003</villageId>
+    <villageName>山上里</villageName>
+  </village>
+  <village>
+    <villageId>67000220004</villageId>
+    <villageName>新莊里</villageName>
+  </village>
+  <village>
+    <villageId>67000220005</villageId>
+    <villageName>玉峯里</villageName>
+  </village>
+  <village>
+    <villageId>67000220006</villageId>
+    <villageName>平陽里</villageName>
+  </village>
+  <village>
+    <villageId>67000220007</villageId>
+    <villageName>豐德里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>09020030001</villageId>
+    <villageName>新市里</villageName>
+  </village>
+  <village>
+    <villageId>09020030002</villageId>
+    <villageName>山外里</villageName>
+  </village>
+  <village>
+    <villageId>09020030003</villageId>
+    <villageName>正義里</villageName>
+  </village>
+  <village>
+    <villageId>09020030004</villageId>
+    <villageName>料羅里</villageName>
+  </village>
+  <village>
+    <villageId>09020030005</villageId>
+    <villageName>瓊林里</villageName>
+  </village>
+  <village>
+    <villageId>09020030006</villageId>
+    <villageName>新湖里</villageName>
+  </village>
+  <village>
+    <villageId>09020030007</villageId>
+    <villageName>溪湖里</villageName>
+  </village>
+  <village>
+    <villageId>09020030008</villageId>
+    <villageName>蓮庵里</villageName>
+  </village>
+</villages>

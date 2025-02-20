@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015040001</villageId>
+    <villageName>新城村</villageName>
+  </village>
+  <village>
+    <villageId>10015040002</villageId>
+    <villageName>順安村</villageName>
+  </village>
+  <village>
+    <villageId>10015040003</villageId>
+    <villageName>康樂村</villageName>
+  </village>
+  <village>
+    <villageId>10015040004</villageId>
+    <villageName>北埔村</villageName>
+  </village>
+  <village>
+    <villageId>10015040005</villageId>
+    <villageName>佳林村</villageName>
+  </village>
+  <village>
+    <villageId>10015040006</villageId>
+    <villageName>嘉里村</villageName>
+  </village>
+  <village>
+    <villageId>10015040007</villageId>
+    <villageName>嘉新村</villageName>
+  </village>
+  <village>
+    <villageId>10015040008</villageId>
+    <villageName>大漢村</villageName>
+  </village>
+  <village>
+    <villageId>10015040009</villageId>
+    <villageName>新秀村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005160001</villageId>
+    <villageName>三灣村</villageName>
+  </village>
+  <village>
+    <villageId>10005160002</villageId>
+    <villageName>內灣村</villageName>
+  </village>
+  <village>
+    <villageId>10005160003</villageId>
+    <villageName>銅鏡村</villageName>
+  </village>
+  <village>
+    <villageId>10005160004</villageId>
+    <villageName>頂寮村</villageName>
+  </village>
+  <village>
+    <villageId>10005160005</villageId>
+    <villageName>北埔村</villageName>
+  </village>
+  <village>
+    <villageId>10005160006</villageId>
+    <villageName>大河村</villageName>
+  </village>
+  <village>
+    <villageId>10005160007</villageId>
+    <villageName>大坪村</villageName>
+  </village>
+  <village>
+    <villageId>10005160008</villageId>
+    <villageName>永和村</villageName>
+  </village>
+</villages>

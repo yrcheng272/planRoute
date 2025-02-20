@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10008050001</villageId>
+    <villageName>集集里</villageName>
+  </village>
+  <village>
+    <villageId>10008050002</villageId>
+    <villageName>和平里</villageName>
+  </village>
+  <village>
+    <villageId>10008050003</villageId>
+    <villageName>林尾里</villageName>
+  </village>
+  <village>
+    <villageId>10008050004</villageId>
+    <villageName>田寮里</villageName>
+  </village>
+  <village>
+    <villageId>10008050005</villageId>
+    <villageName>隘寮里</villageName>
+  </village>
+  <village>
+    <villageId>10008050006</villageId>
+    <villageName>玉映里</villageName>
+  </village>
+  <village>
+    <villageId>10008050007</villageId>
+    <villageName>吳厝里</villageName>
+  </village>
+  <village>
+    <villageId>10008050008</villageId>
+    <villageName>八張里</villageName>
+  </village>
+  <village>
+    <villageId>10008050009</villageId>
+    <villageName>永昌里</villageName>
+  </village>
+  <village>
+    <villageId>10008050010</villageId>
+    <villageName>富山里</villageName>
+  </village>
+  <village>
+    <villageId>10008050011</villageId>
+    <villageName>廣明里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000110001</villageId>
+    <villageName>石湖里</villageName>
+  </village>
+  <village>
+    <villageId>67000110002</villageId>
+    <villageName>石林里</villageName>
+  </village>
+  <village>
+    <villageId>67000110003</villageId>
+    <villageName>石城里</villageName>
+  </village>
+  <village>
+    <villageId>67000110004</villageId>
+    <villageName>內江里</villageName>
+  </village>
+  <village>
+    <villageId>67000110005</villageId>
+    <villageName>大內里</villageName>
+  </village>
+  <village>
+    <villageId>67000110006</villageId>
+    <villageName>內郭里</villageName>
+  </village>
+  <village>
+    <villageId>67000110007</villageId>
+    <villageName>頭社里</villageName>
+  </village>
+  <village>
+    <villageId>67000110008</villageId>
+    <villageName>環湖里</villageName>
+  </village>
+  <village>
+    <villageId>67000110009</villageId>
+    <villageName>二溪里</villageName>
+  </village>
+  <village>
+    <villageId>67000110010</villageId>
+    <villageName>曲溪里</villageName>
+  </village>
+</villages>

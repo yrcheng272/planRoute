@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>67000090001</villageId>
+    <villageName>六甲里</villageName>
+  </village>
+  <village>
+    <villageId>67000090002</villageId>
+    <villageName>甲東里</villageName>
+  </village>
+  <village>
+    <villageId>67000090003</villageId>
+    <villageName>甲南里</villageName>
+  </village>
+  <village>
+    <villageId>67000090005</villageId>
+    <villageName>七甲里</villageName>
+  </village>
+  <village>
+    <villageId>67000090006</villageId>
+    <villageName>二甲里</villageName>
+  </village>
+  <village>
+    <villageId>67000090007</villageId>
+    <villageName>水林里</villageName>
+  </village>
+  <village>
+    <villageId>67000090008</villageId>
+    <villageName>中社里</villageName>
+  </village>
+  <village>
+    <villageId>67000090009</villageId>
+    <villageName>龜港里</villageName>
+  </village>
+  <village>
+    <villageId>67000090010</villageId>
+    <villageName>菁埔里</villageName>
+  </village>
+  <village>
+    <villageId>67000090011</villageId>
+    <villageName>王爺里</villageName>
+  </village>
+  <village>
+    <villageId>67000090012</villageId>
+    <villageName>大丘里</villageName>
+  </village>
+</villages>

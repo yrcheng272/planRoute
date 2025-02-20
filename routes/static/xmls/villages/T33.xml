@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013330001</villageId>
+    <villageName>石門村</villageName>
+  </village>
+  <village>
+    <villageId>10013330002</villageId>
+    <villageName>牡丹村</villageName>
+  </village>
+  <village>
+    <villageId>10013330003</villageId>
+    <villageName>東源村</villageName>
+  </village>
+  <village>
+    <villageId>10013330004</villageId>
+    <villageName>旭海村</villageName>
+  </village>
+  <village>
+    <villageId>10013330005</villageId>
+    <villageName>高士村</villageName>
+  </village>
+  <village>
+    <villageId>10013330006</villageId>
+    <villageName>四林村</villageName>
+  </village>
+</villages>

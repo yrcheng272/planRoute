@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005110001</villageId>
+    <villageName>東村</villageName>
+  </village>
+  <village>
+    <villageId>10005110002</villageId>
+    <villageName>西村</villageName>
+  </village>
+  <village>
+    <villageId>10005110003</villageId>
+    <villageName>南江村</villageName>
+  </village>
+  <village>
+    <villageId>10005110004</villageId>
+    <villageName>田美村</villageName>
+  </village>
+  <village>
+    <villageId>10005110005</villageId>
+    <villageName>獅山村</villageName>
+  </village>
+  <village>
+    <villageId>10005110006</villageId>
+    <villageName>南富村</villageName>
+  </village>
+  <village>
+    <villageId>10005110007</villageId>
+    <villageName>員林村</villageName>
+  </village>
+  <village>
+    <villageId>10005110008</villageId>
+    <villageName>蓬萊村</villageName>
+  </village>
+  <village>
+    <villageId>10005110009</villageId>
+    <villageName>東河村</villageName>
+  </village>
+</villages>

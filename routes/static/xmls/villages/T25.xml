@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013250001</villageId>
+    <villageName>枋山村</villageName>
+  </village>
+  <village>
+    <villageId>10013250002</villageId>
+    <villageName>加祿村</villageName>
+  </village>
+  <village>
+    <villageId>10013250003</villageId>
+    <villageName>楓港村</villageName>
+  </village>
+  <village>
+    <villageId>10013250004</villageId>
+    <villageName>善餘村</villageName>
+  </village>
+</villages>

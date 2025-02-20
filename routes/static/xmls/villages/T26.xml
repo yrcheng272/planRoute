@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013260001</villageId>
+    <villageName>三地村</villageName>
+  </village>
+  <village>
+    <villageId>10013260002</villageId>
+    <villageName>達來村</villageName>
+  </village>
+  <village>
+    <villageId>10013260003</villageId>
+    <villageName>德文村</villageName>
+  </village>
+  <village>
+    <villageId>10013260004</villageId>
+    <villageName>大社村</villageName>
+  </village>
+  <village>
+    <villageId>10013260005</villageId>
+    <villageName>賽嘉村</villageName>
+  </village>
+  <village>
+    <villageId>10013260006</villageId>
+    <villageName>口社村</villageName>
+  </village>
+  <village>
+    <villageId>10013260007</villageId>
+    <villageName>馬兒村</villageName>
+  </village>
+  <village>
+    <villageId>10013260008</villageId>
+    <villageName>安坡村</villageName>
+  </village>
+  <village>
+    <villageId>10013260009</villageId>
+    <villageName>青山村</villageName>
+  </village>
+  <village>
+    <villageId>10013260010</villageId>
+    <villageName>青葉村</villageName>
+  </village>
+</villages>

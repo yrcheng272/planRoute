@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005150001</villageId>
+    <villageName>造橋村</villageName>
+  </village>
+  <village>
+    <villageId>10005150002</villageId>
+    <villageName>平興村</villageName>
+  </village>
+  <village>
+    <villageId>10005150003</villageId>
+    <villageName>豐湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005150004</villageId>
+    <villageName>大西村</villageName>
+  </village>
+  <village>
+    <villageId>10005150005</villageId>
+    <villageName>錦水村</villageName>
+  </village>
+  <village>
+    <villageId>10005150006</villageId>
+    <villageName>大龍村</villageName>
+  </village>
+  <village>
+    <villageId>10005150007</villageId>
+    <villageName>朝陽村</villageName>
+  </village>
+  <village>
+    <villageId>10005150008</villageId>
+    <villageName>談文村</villageName>
+  </village>
+  <village>
+    <villageId>10005150009</villageId>
+    <villageName>龍昇村</villageName>
+  </village>
+</villages>

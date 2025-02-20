@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10009150001</villageId>
+    <villageName>中民村</villageName>
+  </village>
+  <village>
+    <villageId>10009150002</villageId>
+    <villageName>埔姜村</villageName>
+  </village>
+  <village>
+    <villageId>10009150003</villageId>
+    <villageName>中勝村</villageName>
+  </village>
+  <village>
+    <villageId>10009150004</villageId>
+    <villageName>新湖村</villageName>
+  </village>
+  <village>
+    <villageId>10009150005</villageId>
+    <villageName>馬鳴村</villageName>
+  </village>
+  <village>
+    <villageId>10009150006</villageId>
+    <villageName>有才村</villageName>
+  </village>
+  <village>
+    <villageId>10009150007</villageId>
+    <villageName>田洋村</villageName>
+  </village>
+  <village>
+    <villageId>10009150008</villageId>
+    <villageName>龍岩村</villageName>
+  </village>
+  <village>
+    <villageId>10009150009</villageId>
+    <villageName>潮厝村</villageName>
+  </village>
+</villages>

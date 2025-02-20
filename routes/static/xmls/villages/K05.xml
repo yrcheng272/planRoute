@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005100001</villageId>
+    <villageName>福興村</villageName>
+  </village>
+  <village>
+    <villageId>10005100002</villageId>
+    <villageName>銅鑼村</villageName>
+  </village>
+  <village>
+    <villageId>10005100003</villageId>
+    <villageName>朝陽村</villageName>
+  </village>
+  <village>
+    <villageId>10005100004</villageId>
+    <villageName>樟樹村</villageName>
+  </village>
+  <village>
+    <villageId>10005100005</villageId>
+    <villageName>九湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005100006</villageId>
+    <villageName>竹森村</villageName>
+  </village>
+  <village>
+    <villageId>10005100007</villageId>
+    <villageName>中平村</villageName>
+  </village>
+  <village>
+    <villageId>10005100008</villageId>
+    <villageName>興隆村</villageName>
+  </village>
+  <village>
+    <villageId>10005100009</villageId>
+    <villageName>盛隆村</villageName>
+  </village>
+  <village>
+    <villageId>10005100010</villageId>
+    <villageName>新隆村</villageName>
+  </village>
+</villages>

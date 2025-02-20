@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>09020040001</villageId>
+    <villageName>古寧村</villageName>
+  </village>
+  <village>
+    <villageId>09020040002</villageId>
+    <villageName>安美村</villageName>
+  </village>
+  <village>
+    <villageId>09020040003</villageId>
+    <villageName>后盤村</villageName>
+  </village>
+  <village>
+    <villageId>09020040004</villageId>
+    <villageName>湖埔村</villageName>
+  </village>
+  <village>
+    <villageId>09020040005</villageId>
+    <villageName>榜林村</villageName>
+  </village>
+  <village>
+    <villageId>09020040006</villageId>
+    <villageName>盤山村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10004130001</villageId>
+    <villageName>大隘村</villageName>
+  </village>
+  <village>
+    <villageId>10004130002</villageId>
+    <villageName>花園村</villageName>
+  </village>
+  <village>
+    <villageId>10004130003</villageId>
+    <villageName>竹林村</villageName>
+  </village>
+  <village>
+    <villageId>10004130004</villageId>
+    <villageName>桃山村</villageName>
+  </village>
+</villages>

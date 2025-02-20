@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>66000210001</villageId>
+    <villageName>永豐里</villageName>
+  </village>
+  <village>
+    <villageId>66000210002</villageId>
+    <villageName>六分里</villageName>
+  </village>
+  <village>
+    <villageId>66000210003</villageId>
+    <villageName>三崁里</villageName>
+  </village>
+  <village>
+    <villageId>66000210004</villageId>
+    <villageName>大同里</villageName>
+  </village>
+  <village>
+    <villageId>66000210005</villageId>
+    <villageName>水美里</villageName>
+  </village>
+  <village>
+    <villageId>66000210006</villageId>
+    <villageName>大東里</villageName>
+  </village>
+  <village>
+    <villageId>66000210007</villageId>
+    <villageName>馬鳴里</villageName>
+  </village>
+  <village>
+    <villageId>66000210008</villageId>
+    <villageName>中山里</villageName>
+  </village>
+  <village>
+    <villageId>66000210009</villageId>
+    <villageName>鐵山里</villageName>
+  </village>
+  <village>
+    <villageId>66000210010</villageId>
+    <villageName>土城里</villageName>
+  </village>
+  <village>
+    <villageId>66000210011</villageId>
+    <villageName>廍子里</villageName>
+  </village>
+</villages>

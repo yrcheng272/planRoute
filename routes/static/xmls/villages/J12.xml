@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10004090001</villageId>
+    <villageName>北埔村</villageName>
+  </village>
+  <village>
+    <villageId>10004090002</villageId>
+    <villageName>南興村</villageName>
+  </village>
+  <village>
+    <villageId>10004090003</villageId>
+    <villageName>埔尾村</villageName>
+  </village>
+  <village>
+    <villageId>10004090004</villageId>
+    <villageName>水磜村</villageName>
+  </village>
+  <village>
+    <villageId>10004090005</villageId>
+    <villageName>南埔村</villageName>
+  </village>
+  <village>
+    <villageId>10004090006</villageId>
+    <villageName>大林村</villageName>
+  </village>
+  <village>
+    <villageId>10004090007</villageId>
+    <villageName>大湖村</villageName>
+  </village>
+  <village>
+    <villageId>10004090008</villageId>
+    <villageName>南坑村</villageName>
+  </village>
+  <village>
+    <villageId>10004090009</villageId>
+    <villageName>外坪村</villageName>
+  </village>
+</villages>

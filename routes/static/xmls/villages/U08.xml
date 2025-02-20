@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015080001</villageId>
+    <villageName>豐濱村</villageName>
+  </village>
+  <village>
+    <villageId>10015080002</villageId>
+    <villageName>新社村</villageName>
+  </village>
+  <village>
+    <villageId>10015080003</villageId>
+    <villageName>磯崎村</villageName>
+  </village>
+  <village>
+    <villageId>10015080004</villageId>
+    <villageName>港口村</villageName>
+  </village>
+  <village>
+    <villageId>10015080005</villageId>
+    <villageName>靜浦村</villageName>
+  </village>
+  <village>
+    <villageId>10015080P01</villageId>
+    <villageName/>
+  </village>
+</villages>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013150001</villageId>
+    <villageName>新埤村</villageName>
+  </village>
+  <village>
+    <villageId>10013150002</villageId>
+    <villageName>建功村</villageName>
+  </village>
+  <village>
+    <villageId>10013150003</villageId>
+    <villageName>打鐵村</villageName>
+  </village>
+  <village>
+    <villageId>10013150004</villageId>
+    <villageName>南豐村</villageName>
+  </village>
+  <village>
+    <villageId>10013150005</villageId>
+    <villageName>萬隆村</villageName>
+  </village>
+  <village>
+    <villageId>10013150006</villageId>
+    <villageName>箕湖村</villageName>
+  </village>
+  <village>
+    <villageId>10013150007</villageId>
+    <villageName>餉潭村</villageName>
+  </village>
+</villages>

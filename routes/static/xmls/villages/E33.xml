@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000330001</villageId>
+    <villageName>東安里</villageName>
+  </village>
+  <village>
+    <villageId>64000330002</villageId>
+    <villageName>西安里</villageName>
+  </village>
+  <village>
+    <villageId>64000330003</villageId>
+    <villageName>和安里</villageName>
+  </village>
+  <village>
+    <villageId>64000330004</villageId>
+    <villageName>大田里</villageName>
+  </village>
+  <village>
+    <villageId>64000330005</villageId>
+    <villageName>寶隆里</villageName>
+  </village>
+  <village>
+    <villageId>64000330006</villageId>
+    <villageName>關山里</villageName>
+  </village>
+  <village>
+    <villageId>64000330007</villageId>
+    <villageName>小林里</villageName>
+  </village>
+</villages>

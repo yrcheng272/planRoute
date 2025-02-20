@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014020001</villageId>
+    <villageName>博愛里</villageName>
+  </village>
+  <village>
+    <villageId>10014020002</villageId>
+    <villageName>忠孝里</villageName>
+  </village>
+  <village>
+    <villageId>10014020003</villageId>
+    <villageName>三仙里</villageName>
+  </village>
+  <village>
+    <villageId>10014020004</villageId>
+    <villageName>三民里</villageName>
+  </village>
+  <village>
+    <villageId>10014020005</villageId>
+    <villageName>忠智里</villageName>
+  </village>
+  <village>
+    <villageId>10014020006</villageId>
+    <villageName>忠仁里</villageName>
+  </village>
+  <village>
+    <villageId>10014020007</villageId>
+    <villageName>和平里</villageName>
+  </village>
+  <village>
+    <villageId>10014020008</villageId>
+    <villageName>信義里</villageName>
+  </village>
+</villages>

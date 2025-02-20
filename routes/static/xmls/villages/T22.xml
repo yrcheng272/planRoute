@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013220001</villageId>
+    <villageName>本福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220002</villageId>
+    <villageName>中福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220003</villageId>
+    <villageName>漁福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220004</villageId>
+    <villageName>大福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220005</villageId>
+    <villageName>南福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220006</villageId>
+    <villageName>天福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220007</villageId>
+    <villageName>上福村</villageName>
+  </village>
+  <village>
+    <villageId>10013220008</villageId>
+    <villageName>杉福村</villageName>
+  </village>
+</villages>

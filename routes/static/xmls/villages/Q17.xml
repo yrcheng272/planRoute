@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10010160001</villageId>
+    <villageName>江西村</villageName>
+  </village>
+  <village>
+    <villageId>10010160002</villageId>
+    <villageName>內甕村</villageName>
+  </village>
+  <village>
+    <villageId>10010160003</villageId>
+    <villageName>新福村</villageName>
+  </village>
+  <village>
+    <villageId>10010160004</villageId>
+    <villageName>下坑村</villageName>
+  </village>
+  <village>
+    <villageId>10010160005</villageId>
+    <villageName>番路村</villageName>
+  </village>
+  <village>
+    <villageId>10010160006</villageId>
+    <villageName>民和村</villageName>
+  </village>
+  <village>
+    <villageId>10010160007</villageId>
+    <villageName>觸口村</villageName>
+  </village>
+  <village>
+    <villageId>10010160008</villageId>
+    <villageName>大湖村</villageName>
+  </village>
+  <village>
+    <villageId>10010160009</villageId>
+    <villageName>公田村</villageName>
+  </village>
+  <village>
+    <villageId>10010160010</villageId>
+    <villageName>公興村</villageName>
+  </village>
+  <village>
+    <villageId>10010160011</villageId>
+    <villageName>草山村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013200001</villageId>
+    <villageName>溪洲村</villageName>
+  </village>
+  <village>
+    <villageId>10013200002</villageId>
+    <villageName>溪南村</villageName>
+  </village>
+  <village>
+    <villageId>10013200003</villageId>
+    <villageName>仁里村</villageName>
+  </village>
+  <village>
+    <villageId>10013200004</villageId>
+    <villageName>溪北村</villageName>
+  </village>
+  <village>
+    <villageId>10013200005</villageId>
+    <villageName>七塊村</villageName>
+  </village>
+  <village>
+    <villageId>10013200006</villageId>
+    <villageName>萬華村</villageName>
+  </village>
+  <village>
+    <villageId>10013200007</villageId>
+    <villageName>米崙村</villageName>
+  </village>
+  <village>
+    <villageId>10013200008</villageId>
+    <villageName>壽元村</villageName>
+  </village>
+  <village>
+    <villageId>10013200009</villageId>
+    <villageName>同安村</villageName>
+  </village>
+  <village>
+    <villageId>10013200010</villageId>
+    <villageName>南安村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014080001</villageId>
+    <villageName>樟原村</villageName>
+  </village>
+  <village>
+    <villageId>10014080002</villageId>
+    <villageName>三間村</villageName>
+  </village>
+  <village>
+    <villageId>10014080003</villageId>
+    <villageName>忠勇村</villageName>
+  </village>
+  <village>
+    <villageId>10014080004</villageId>
+    <villageName>長濱村</villageName>
+  </village>
+  <village>
+    <villageId>10014080005</villageId>
+    <villageName>竹湖村</villageName>
+  </village>
+  <village>
+    <villageId>10014080006</villageId>
+    <villageName>寧埔村</villageName>
+  </village>
+</villages>

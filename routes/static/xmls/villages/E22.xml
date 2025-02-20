@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000220001</villageId>
+    <villageName>鹿埔里</villageName>
+  </village>
+  <village>
+    <villageId>64000220002</villageId>
+    <villageName>南安里</villageName>
+  </village>
+  <village>
+    <villageId>64000220003</villageId>
+    <villageName>大同里</villageName>
+  </village>
+  <village>
+    <villageId>64000220004</villageId>
+    <villageName>田寮里</villageName>
+  </village>
+  <village>
+    <villageId>64000220005</villageId>
+    <villageName>七星里</villageName>
+  </village>
+  <village>
+    <villageId>64000220006</villageId>
+    <villageName>崇德里</villageName>
+  </village>
+  <village>
+    <villageId>64000220007</villageId>
+    <villageName>西德里</villageName>
+  </village>
+  <village>
+    <villageId>64000220008</villageId>
+    <villageName>三和里</villageName>
+  </village>
+  <village>
+    <villageId>64000220009</villageId>
+    <villageName>古亭里</villageName>
+  </village>
+  <village>
+    <villageId>64000220010</villageId>
+    <villageName>新興里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% block title %}
+    <title>簡易信箱投遞路線規劃</title>
+    {% endblock %}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous" />
+
+    <!-- Add additional CSS in static file -->
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-2"></div>
+        <h1>路線規劃</h1>
+      </div>
+      <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-4">
+          <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+            <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+            </symbol>
+          </svg>
+          <div class="alert alert-warning d-flex align-items-center" role="alert">
+            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:"><use xlink:href="#exclamation-triangle-fill"/></svg>
+            <div>
+              地圖是接<a href="https://www.openstreetmap.org/" class="alert-link" target="_blank">OpenStreetMap</a>的資料，有可能與實際道路不符合，僅供參考！
+            </div>
+          </div>
+          <form>
+            <div class="form-row">
+              <div class="form-group col-auto">
+                <select id="city" name="city" class="form-select">
+                  <option selected>請選擇縣市</option>
+                  {% for city in cities %}
+                    <option value="{{city.countycode}}">{{city.countyname}}</option>
+                  {% endfor %}
+                </select>
+              </div>
+              <div class="form-group col-auto">
+                <select id="town" name="town" class="form-select"></select>
+              </div>
+              <div class="form-group col-auto">
+                <select id="village" name="village" class="form-select"></select>
+              </div>
+              <div class="form-group col-auto">
+                <button type="button" class="btn btn-success btn-sm" id="submit">規劃</button>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="col-sm-4">
+          <div class="card">
+            <div class="card-header">
+              <h5 class="card-title">gpx檔</h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">提供gpx檔案載入智慧手錶、Google地圖或是其他工具。</p>
+              <p class="card-text">Google地圖可以匯入，但無法顯示路徑順序，所以另外找了這個網站 <a href="https://gpx.studio/" target="_blank"> gpx.studio</a>，不用註冊，匯入之後在底下用滑鼠移動可以顯示路徑順序。</p>
+              <form action="download-gpx" method="POST" target="_blank">
+                {% csrf_token %}
+                <input type="hidden" name="loc" value="" id="download-loc"></input>
+                <input type="hidden" name="vid" value="" id="download-vid"></input>
+                <button type="submit" class="btn btn-primary btn-sm" id="download-btn" disabled>下載</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="loader-inner ball-pulse"></div>
+        <iframe class="col-sm-8" id="route_map" height="600" style="visibility: hidden;"></iframe >
+      </div>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js" crossorigin="anonymous"></script>
+    <script src="{% static 'js/jquery.loading.js' %}" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      $("#city").change(function(){
+        $.ajax({
+          type : 'GET',
+          url : 'get-towns',
+          data : {
+            'city' : $("#city").val()
+          },
+          dataType : 'json',
+          success : function(response){
+            $('#village').find('option').remove();
+            var select = document.getElementById('town');
+            for(var i = select.options.length - 1; i >= 0; i--) {
+              select.remove(i);
+            }
+            for (var i = 0; i<response.towns.length; i++){
+              var option = document.createElement('option');
+              option.value = response.towns[i]['towncode01'];
+              option.innerHTML = response.towns[i]['townname'];
+              select.appendChild(option);
+            }
+          },
+        });
+      });
+    
+      $("#town").change(function(){
+        $.ajax({
+          type : 'GET',
+          url : 'get-villages',
+          data : {
+            'town' : $("#town").val()
+          },
+          dataType : 'json',
+          success : function(response){
+            var select = document.getElementById('village');
+            for(var i = select.options.length - 1; i >= 0; i--) {
+              select.remove(i);
+            }
+            for (var i = 0; i<response.villages.length; i++){
+              var option = document.createElement('option');
+              option.value = response.villages[i]['villageId'];
+              option.innerHTML = response.villages[i]['villageName'];
+              select.appendChild(option);
+            }
+          },
+        });
+      });
+
+      $("#submit").click(function(){
+        $.ajax({
+          type : 'GET',
+          url : 'route',
+          data : {
+            'city' : $("#city option:selected").text(),
+            'town' : $("#town option:selected").text(),
+            'village' : $("#village option:selected").text(),
+            'vid' : $("#village option:selected").val()
+          },
+          dataType : 'json',
+          beforeSend: function(e){
+            if($("#town option:selected").text() == '' || $("#village option:selected").text() == ''){
+              alert('請先選擇縣市');
+              e.preventDefault(e);
+            }else{
+              $("#route_map").css('visibility', 'visible');
+              $("#route_map").loading();
+            }
+          },
+          complete: function(){
+            $("#route_map").loading('stop');
+          },
+          success : function(response){
+            $("#route_map").css('visibility', 'visible');
+            $("#route_map").attr('srcdoc', response.content);
+            $("#download-loc").attr('value', response.location);
+            $("#download-vid").attr('value', $("#village option:selected").val());
+            $('#download-btn').removeAttr('disabled');
+          },
+        });
+      });
+    </script>
+  </body>
+</html>

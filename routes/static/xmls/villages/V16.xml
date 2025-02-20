@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014160001</villageId>
+    <villageName>東清村</villageName>
+  </village>
+  <village>
+    <villageId>10014160002</villageId>
+    <villageName>朗島村</villageName>
+  </village>
+  <village>
+    <villageId>10014160003</villageId>
+    <villageName>紅頭村</villageName>
+  </village>
+  <village>
+    <villageId>10014160004</villageId>
+    <villageName>椰油村</villageName>
+  </village>
+</villages>

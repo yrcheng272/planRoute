@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10004100001</villageId>
+    <villageName>雙溪村</villageName>
+  </village>
+  <village>
+    <villageId>10004100002</villageId>
+    <villageName>大崎村</villageName>
+  </village>
+  <village>
+    <villageId>10004100003</villageId>
+    <villageName>三峰村</villageName>
+  </village>
+  <village>
+    <villageId>10004100004</villageId>
+    <villageName>新城村</villageName>
+  </village>
+  <village>
+    <villageId>10004100005</villageId>
+    <villageName>深井村</villageName>
+  </village>
+  <village>
+    <villageId>10004100006</villageId>
+    <villageName>寶斗村</villageName>
+  </village>
+  <village>
+    <villageId>10004100007</villageId>
+    <villageName>山湖村</villageName>
+  </village>
+  <village>
+    <villageId>10004100008</villageId>
+    <villageName>寶山村</villageName>
+  </village>
+  <village>
+    <villageId>10004100009</villageId>
+    <villageName>油田村</villageName>
+  </village>
+  <village>
+    <villageId>10004100010</villageId>
+    <villageName>雙新村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10009100001</villageId>
+    <villageName>林南村</villageName>
+  </village>
+  <village>
+    <villageId>10009100002</villageId>
+    <villageName>林中村</villageName>
+  </village>
+  <village>
+    <villageId>10009100003</villageId>
+    <villageName>林北村</villageName>
+  </village>
+  <village>
+    <villageId>10009100004</villageId>
+    <villageName>坪頂村</villageName>
+  </village>
+  <village>
+    <villageId>10009100005</villageId>
+    <villageName>林茂村</villageName>
+  </village>
+  <village>
+    <villageId>10009100006</villageId>
+    <villageName>九芎村</villageName>
+  </village>
+  <village>
+    <villageId>10009100007</villageId>
+    <villageName>湖本村</villageName>
+  </village>
+  <village>
+    <villageId>10009100008</villageId>
+    <villageName>烏塗村</villageName>
+  </village>
+  <village>
+    <villageId>10009100009</villageId>
+    <villageName>烏麻村</villageName>
+  </village>
+  <village>
+    <villageId>10009100010</villageId>
+    <villageName>重興村</villageName>
+  </village>
+</villages>

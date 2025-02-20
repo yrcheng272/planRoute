@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>09020010001</villageId>
+    <villageName>東門里</villageName>
+  </village>
+  <village>
+    <villageId>09020010002</villageId>
+    <villageName>西門里</villageName>
+  </village>
+  <village>
+    <villageId>09020010003</villageId>
+    <villageName>南門里</villageName>
+  </village>
+  <village>
+    <villageId>09020010004</villageId>
+    <villageName>北門里</villageName>
+  </village>
+  <village>
+    <villageId>09020010005</villageId>
+    <villageName>古城里</villageName>
+  </village>
+  <village>
+    <villageId>09020010006</villageId>
+    <villageName>金水里</villageName>
+  </village>
+  <village>
+    <villageId>09020010007</villageId>
+    <villageName>珠沙里</villageName>
+  </village>
+  <village>
+    <villageId>09020010008</villageId>
+    <villageName>賢庵里</villageName>
+  </village>
+  <village>
+    <villageId>09020010I01</villageId>
+    <villageName/>
+  </village>
+</villages>

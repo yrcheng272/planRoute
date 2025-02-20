@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000180001</villageId>
+    <villageName>鳥松里</villageName>
+  </village>
+  <village>
+    <villageId>64000180002</villageId>
+    <villageName>夢裡里</villageName>
+  </village>
+  <village>
+    <villageId>64000180003</villageId>
+    <villageName>大華里</villageName>
+  </village>
+  <village>
+    <villageId>64000180004</villageId>
+    <villageName>坔埔里</villageName>
+  </village>
+  <village>
+    <villageId>64000180005</villageId>
+    <villageName>仁美里</villageName>
+  </village>
+  <village>
+    <villageId>64000180006</villageId>
+    <villageName>大竹里</villageName>
+  </village>
+  <village>
+    <villageId>64000180007</villageId>
+    <villageName>華美里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005170001</villageId>
+    <villageName>百壽村</villageName>
+  </village>
+  <village>
+    <villageId>10005170002</villageId>
+    <villageName>永興村</villageName>
+  </village>
+  <village>
+    <villageId>10005170003</villageId>
+    <villageName>新店村</villageName>
+  </village>
+  <village>
+    <villageId>10005170004</villageId>
+    <villageName>和興村</villageName>
+  </village>
+  <village>
+    <villageId>10005170005</villageId>
+    <villageName>豐林村</villageName>
+  </village>
+  <village>
+    <villageId>10005170006</villageId>
+    <villageName>新豐村</villageName>
+  </village>
+  <village>
+    <villageId>10005170007</villageId>
+    <villageName>竹木村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005180001</villageId>
+    <villageName>八卦村</villageName>
+  </village>
+  <village>
+    <villageId>10005180002</villageId>
+    <villageName>錦水村</villageName>
+  </village>
+  <village>
+    <villageId>10005180003</villageId>
+    <villageName>清安村</villageName>
+  </village>
+  <village>
+    <villageId>10005180004</villageId>
+    <villageName>大興村</villageName>
+  </village>
+  <village>
+    <villageId>10005180005</villageId>
+    <villageName>中興村</villageName>
+  </village>
+  <village>
+    <villageId>10005180006</villageId>
+    <villageName>梅園村</villageName>
+  </village>
+  <village>
+    <villageId>10005180007</villageId>
+    <villageName>象鼻村</villageName>
+  </village>
+  <village>
+    <villageId>10005180008</villageId>
+    <villageName>士林村</villageName>
+  </village>
+</villages>

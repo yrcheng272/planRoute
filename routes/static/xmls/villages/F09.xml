@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>65000180001</villageId>
+    <villageName>深坑里</villageName>
+  </village>
+  <village>
+    <villageId>65000180002</villageId>
+    <villageName>萬順里</villageName>
+  </village>
+  <village>
+    <villageId>65000180003</villageId>
+    <villageName>土庫里</villageName>
+  </village>
+  <village>
+    <villageId>65000180004</villageId>
+    <villageName>昇高里</villageName>
+  </village>
+  <village>
+    <villageId>65000180005</villageId>
+    <villageName>阿柔里</villageName>
+  </village>
+  <village>
+    <villageId>65000180006</villageId>
+    <villageName>埔新里</villageName>
+  </village>
+  <village>
+    <villageId>65000180007</villageId>
+    <villageName>萬福里</villageName>
+  </village>
+  <village>
+    <villageId>65000180008</villageId>
+    <villageName>賴仲里</villageName>
+  </village>
+</villages>

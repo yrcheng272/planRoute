@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>65000230001</villageId>
+    <villageName>龍源里</villageName>
+  </village>
+  <village>
+    <villageId>65000230002</villageId>
+    <villageName>米倉里</villageName>
+  </village>
+  <village>
+    <villageId>65000230003</villageId>
+    <villageName>大崁里</villageName>
+  </village>
+  <village>
+    <villageId>65000230004</villageId>
+    <villageName>埤頭里</villageName>
+  </village>
+  <village>
+    <villageId>65000230005</villageId>
+    <villageName>頂罟里</villageName>
+  </village>
+  <village>
+    <villageId>65000230006</villageId>
+    <villageName>舊城里</villageName>
+  </village>
+  <village>
+    <villageId>65000230007</villageId>
+    <villageName>訊塘里</villageName>
+  </village>
+  <village>
+    <villageId>65000230008</villageId>
+    <villageName>荖阡里</villageName>
+  </village>
+  <village>
+    <villageId>65000230009</villageId>
+    <villageName>長坑里</villageName>
+  </village>
+  <village>
+    <villageId>65000230010</villageId>
+    <villageName>下罟里</villageName>
+  </village>
+</villages>

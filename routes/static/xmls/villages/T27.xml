@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013270001</villageId>
+    <villageName>霧台村</villageName>
+  </village>
+  <village>
+    <villageId>10013270002</villageId>
+    <villageName>阿禮村</villageName>
+  </village>
+  <village>
+    <villageId>10013270003</villageId>
+    <villageName>吉露村</villageName>
+  </village>
+  <village>
+    <villageId>10013270004</villageId>
+    <villageName>大武村</villageName>
+  </village>
+  <village>
+    <villageId>10013270005</villageId>
+    <villageName>佳暮村</villageName>
+  </village>
+  <village>
+    <villageId>10013270006</villageId>
+    <villageName>好茶村</villageName>
+  </village>
+</villages>

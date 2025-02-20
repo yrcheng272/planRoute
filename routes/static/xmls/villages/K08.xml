@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005120001</villageId>
+    <villageName>頭屋村</villageName>
+  </village>
+  <village>
+    <villageId>10005120002</villageId>
+    <villageName>象山村</villageName>
+  </village>
+  <village>
+    <villageId>10005120003</villageId>
+    <villageName>北坑村</villageName>
+  </village>
+  <village>
+    <villageId>10005120004</villageId>
+    <villageName>獅潭村</villageName>
+  </village>
+  <village>
+    <villageId>10005120005</villageId>
+    <villageName>曲洞村</villageName>
+  </village>
+  <village>
+    <villageId>10005120006</villageId>
+    <villageName>飛鳳村</villageName>
+  </village>
+  <village>
+    <villageId>10005120007</villageId>
+    <villageName>明德村</villageName>
+  </village>
+  <village>
+    <villageId>10005120008</villageId>
+    <villageName>鳴鳳村</villageName>
+  </village>
+</villages>

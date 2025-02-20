@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014060001</villageId>
+    <villageName>福文村</villageName>
+  </village>
+  <village>
+    <villageId>10014060002</villageId>
+    <villageName>慶豐村</villageName>
+  </village>
+  <village>
+    <villageId>10014060003</villageId>
+    <villageName>大坡村</villageName>
+  </village>
+  <village>
+    <villageId>10014060004</villageId>
+    <villageName>大埔村</villageName>
+  </village>
+  <village>
+    <villageId>10014060005</villageId>
+    <villageName>福原村</villageName>
+  </village>
+  <village>
+    <villageId>10014060006</villageId>
+    <villageName>錦園村</villageName>
+  </village>
+  <village>
+    <villageId>10014060007</villageId>
+    <villageName>新興村</villageName>
+  </village>
+  <village>
+    <villageId>10014060008</villageId>
+    <villageName>萬安村</villageName>
+  </village>
+  <village>
+    <villageId>10014060009</villageId>
+    <villageName>富興村</villageName>
+  </village>
+  <village>
+    <villageId>10014060010</villageId>
+    <villageName>振興村</villageName>
+  </village>
+</villages>

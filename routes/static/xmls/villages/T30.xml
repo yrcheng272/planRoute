@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013300001</villageId>
+    <villageName>來義村</villageName>
+  </village>
+  <village>
+    <villageId>10013300002</villageId>
+    <villageName>義林村</villageName>
+  </village>
+  <village>
+    <villageId>10013300003</villageId>
+    <villageName>丹林村</villageName>
+  </village>
+  <village>
+    <villageId>10013300004</villageId>
+    <villageName>古樓村</villageName>
+  </village>
+  <village>
+    <villageId>10013300005</villageId>
+    <villageName>文樂村</villageName>
+  </village>
+  <village>
+    <villageId>10013300006</villageId>
+    <villageName>望嘉村</villageName>
+  </village>
+  <village>
+    <villageId>10013300007</villageId>
+    <villageName>南和村</villageName>
+  </village>
+</villages>

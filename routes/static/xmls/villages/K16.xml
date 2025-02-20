@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005070001</villageId>
+    <villageName>中街里</villageName>
+  </village>
+  <village>
+    <villageId>10005070002</villageId>
+    <villageName>新厝里</villageName>
+  </village>
+  <village>
+    <villageId>10005070003</villageId>
+    <villageName>上新里</villageName>
+  </village>
+  <village>
+    <villageId>10005070004</villageId>
+    <villageName>豐田里</villageName>
+  </village>
+  <village>
+    <villageId>10005070005</villageId>
+    <villageName>西坪里</villageName>
+  </village>
+  <village>
+    <villageId>10005070006</villageId>
+    <villageName>景山里</villageName>
+  </village>
+  <village>
+    <villageId>10005070007</villageId>
+    <villageName>老庄里</villageName>
+  </village>
+  <village>
+    <villageId>10005070008</villageId>
+    <villageName>新榮里</villageName>
+  </village>
+  <village>
+    <villageId>10005070009</villageId>
+    <villageName>內灣里</villageName>
+  </village>
+  <village>
+    <villageId>10005070010</villageId>
+    <villageName>苗豐里</villageName>
+  </village>
+  <village>
+    <villageId>10005070011</villageId>
+    <villageName>坪林里</villageName>
+  </village>
+</villages>

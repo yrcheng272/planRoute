@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015120001</villageId>
+    <villageName>西林村</villageName>
+  </village>
+  <village>
+    <villageId>10015120002</villageId>
+    <villageName>見晴村</villageName>
+  </village>
+  <village>
+    <villageId>10015120003</villageId>
+    <villageName>萬榮村</villageName>
+  </village>
+  <village>
+    <villageId>10015120004</villageId>
+    <villageName>明利村</villageName>
+  </village>
+  <village>
+    <villageId>10015120005</villageId>
+    <villageName>馬遠村</villageName>
+  </village>
+  <village>
+    <villageId>10015120006</villageId>
+    <villageName>紅葉村</villageName>
+  </village>
+</villages>

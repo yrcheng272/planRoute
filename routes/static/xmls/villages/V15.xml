@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014140001</villageId>
+    <villageName>新興村</villageName>
+  </village>
+  <village>
+    <villageId>10014140002</villageId>
+    <villageName>正興村</villageName>
+  </village>
+  <village>
+    <villageId>10014140003</villageId>
+    <villageName>嘉蘭村</villageName>
+  </village>
+  <village>
+    <villageId>10014140004</villageId>
+    <villageName>賓茂村</villageName>
+  </village>
+  <village>
+    <villageId>10014140005</villageId>
+    <villageName>歷坵村</villageName>
+  </village>
+</villages>

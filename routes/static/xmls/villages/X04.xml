@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10016040001</villageId>
+    <villageName>橫礁村</villageName>
+  </village>
+  <village>
+    <villageId>10016040002</villageId>
+    <villageName>合界村</villageName>
+  </village>
+  <village>
+    <villageId>10016040003</villageId>
+    <villageName>小門村</villageName>
+  </village>
+  <village>
+    <villageId>10016040004</villageId>
+    <villageName>竹灣村</villageName>
+  </village>
+  <village>
+    <villageId>10016040005</villageId>
+    <villageName>大池村</villageName>
+  </village>
+  <village>
+    <villageId>10016040006</villageId>
+    <villageName>二崁村</villageName>
+  </village>
+  <village>
+    <villageId>10016040007</villageId>
+    <villageName>池東村</villageName>
+  </village>
+  <village>
+    <villageId>10016040008</villageId>
+    <villageName>池西村</villageName>
+  </village>
+  <village>
+    <villageId>10016040009</villageId>
+    <villageName>赤馬村</villageName>
+  </village>
+  <village>
+    <villageId>10016040010</villageId>
+    <villageName>內垵村</villageName>
+  </village>
+  <village>
+    <villageId>10016040011</villageId>
+    <villageName>外垵村</villageName>
+  </village>
+</villages>

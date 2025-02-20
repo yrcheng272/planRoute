@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>65000220001</villageId>
+    <villageName>德茂里</villageName>
+  </village>
+  <village>
+    <villageId>65000220002</villageId>
+    <villageName>富基里</villageName>
+  </village>
+  <village>
+    <villageId>65000220003</villageId>
+    <villageName>老梅里</villageName>
+  </village>
+  <village>
+    <villageId>65000220004</villageId>
+    <villageName>山溪里</villageName>
+  </village>
+  <village>
+    <villageId>65000220005</villageId>
+    <villageName>石門里</villageName>
+  </village>
+  <village>
+    <villageId>65000220006</villageId>
+    <villageName>尖鹿里</villageName>
+  </village>
+  <village>
+    <villageId>65000220007</villageId>
+    <villageName>乾華里</villageName>
+  </village>
+  <village>
+    <villageId>65000220008</villageId>
+    <villageName>茂林里</villageName>
+  </village>
+  <village>
+    <villageId>65000220009</villageId>
+    <villageName>草里里</villageName>
+  </village>
+  <village>
+    <villageId>65000220P01</villageId>
+    <villageName/>
+  </village>
+  <village>
+    <villageId>65000220P02</villageId>
+    <villageName/>
+  </village>
+</villages>

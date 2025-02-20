@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015130001</villageId>
+    <villageName>崙山村</villageName>
+  </village>
+  <village>
+    <villageId>10015130002</villageId>
+    <villageName>立山村</villageName>
+  </village>
+  <village>
+    <villageId>10015130003</villageId>
+    <villageName>太平村</villageName>
+  </village>
+  <village>
+    <villageId>10015130004</villageId>
+    <villageName>卓溪村</villageName>
+  </village>
+  <village>
+    <villageId>10015130005</villageId>
+    <villageName>卓清村</villageName>
+  </village>
+  <village>
+    <villageId>10015130006</villageId>
+    <villageName>古風村</villageName>
+  </village>
+</villages>

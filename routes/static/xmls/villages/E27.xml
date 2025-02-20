@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000270001</villageId>
+    <villageName>永安里</villageName>
+  </village>
+  <village>
+    <villageId>64000270002</villageId>
+    <villageName>永華里</villageName>
+  </village>
+  <village>
+    <villageId>64000270003</villageId>
+    <villageName>新港里</villageName>
+  </village>
+  <village>
+    <villageId>64000270004</villageId>
+    <villageName>鹽田里</villageName>
+  </village>
+  <village>
+    <villageId>64000270005</villageId>
+    <villageName>保寧里</villageName>
+  </village>
+  <village>
+    <villageId>64000270006</villageId>
+    <villageName>維新里</villageName>
+  </village>
+</villages>

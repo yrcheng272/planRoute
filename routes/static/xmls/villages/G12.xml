@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10002120001</villageId>
+    <villageName>南澳村</villageName>
+  </village>
+  <village>
+    <villageId>10002120002</villageId>
+    <villageName>碧候村</villageName>
+  </village>
+  <village>
+    <villageId>10002120003</villageId>
+    <villageName>東岳村</villageName>
+  </village>
+  <village>
+    <villageId>10002120004</villageId>
+    <villageName>金岳村</villageName>
+  </village>
+  <village>
+    <villageId>10002120005</villageId>
+    <villageName>武塔村</villageName>
+  </village>
+  <village>
+    <villageId>10002120006</villageId>
+    <villageName>金洋村</villageName>
+  </village>
+  <village>
+    <villageId>10002120007</villageId>
+    <villageName>澳花村</villageName>
+  </village>
+</villages>

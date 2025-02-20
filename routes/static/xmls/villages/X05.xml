@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10016050001</villageId>
+    <villageName>東安村</villageName>
+  </village>
+  <village>
+    <villageId>10016050002</villageId>
+    <villageName>西安村</villageName>
+  </village>
+  <village>
+    <villageId>10016050003</villageId>
+    <villageName>中社村</villageName>
+  </village>
+  <village>
+    <villageId>10016050004</villageId>
+    <villageName>水垵村</villageName>
+  </village>
+  <village>
+    <villageId>10016050005</villageId>
+    <villageName>將軍村</villageName>
+  </village>
+  <village>
+    <villageId>10016050006</villageId>
+    <villageName>東坪村</villageName>
+  </village>
+  <village>
+    <villageId>10016050007</villageId>
+    <villageName>西坪村</villageName>
+  </village>
+  <village>
+    <villageId>10016050008</villageId>
+    <villageName>東吉村</villageName>
+  </village>
+  <village>
+    <villageId>10016050009</villageId>
+    <villageName>花嶼村</villageName>
+  </village>
+  <village>
+    <villageId>10016050S01</villageId>
+    <villageName/>
+  </village>
+</villages>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014030001</villageId>
+    <villageName>德高里</villageName>
+  </village>
+  <village>
+    <villageId>10014030002</villageId>
+    <villageName>豐泉里</villageName>
+  </village>
+  <village>
+    <villageId>10014030003</villageId>
+    <villageName>新福里</villageName>
+  </village>
+  <village>
+    <villageId>10014030004</villageId>
+    <villageName>中福里</villageName>
+  </village>
+  <village>
+    <villageId>10014030005</villageId>
+    <villageName>里壠里</villageName>
+  </village>
+  <village>
+    <villageId>10014030006</villageId>
+    <villageName>電光里</villageName>
+  </village>
+  <village>
+    <villageId>10014030007</villageId>
+    <villageName>月眉里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015090001</villageId>
+    <villageName>瑞穗村</villageName>
+  </village>
+  <village>
+    <villageId>10015090002</villageId>
+    <villageName>瑞美村</villageName>
+  </village>
+  <village>
+    <villageId>10015090003</villageId>
+    <villageName>瑞良村</villageName>
+  </village>
+  <village>
+    <villageId>10015090004</villageId>
+    <villageName>瑞祥村</villageName>
+  </village>
+  <village>
+    <villageId>10015090005</villageId>
+    <villageName>瑞北村</villageName>
+  </village>
+  <village>
+    <villageId>10015090006</villageId>
+    <villageName>舞鶴村</villageName>
+  </village>
+  <village>
+    <villageId>10015090007</villageId>
+    <villageName>鶴岡村</villageName>
+  </village>
+  <village>
+    <villageId>10015090008</villageId>
+    <villageName>奇美村</villageName>
+  </village>
+  <village>
+    <villageId>10015090009</villageId>
+    <villageName>富源村</villageName>
+  </village>
+  <village>
+    <villageId>10015090010</villageId>
+    <villageName>富民村</villageName>
+  </village>
+  <village>
+    <villageId>10015090011</villageId>
+    <villageName>富興村</villageName>
+  </village>
+</villages>

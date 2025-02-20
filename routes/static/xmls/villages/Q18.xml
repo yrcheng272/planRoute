@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10010170001</villageId>
+    <villageName>大埔村</villageName>
+  </village>
+  <village>
+    <villageId>10010170002</villageId>
+    <villageName>和平村</villageName>
+  </village>
+  <village>
+    <villageId>10010170003</villageId>
+    <villageName>永樂村</villageName>
+  </village>
+  <village>
+    <villageId>10010170004</villageId>
+    <villageName>茄苳村</villageName>
+  </village>
+  <village>
+    <villageId>10010170005</villageId>
+    <villageName>西興村</villageName>
+  </village>
+</villages>

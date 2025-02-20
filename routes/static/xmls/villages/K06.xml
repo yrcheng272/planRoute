@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005130001</villageId>
+    <villageName>廣盛村</villageName>
+  </village>
+  <village>
+    <villageId>10005130002</villageId>
+    <villageName>双湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005130003</villageId>
+    <villageName>双潭村</villageName>
+  </village>
+  <village>
+    <villageId>10005130004</villageId>
+    <villageName>勝興村</villageName>
+  </village>
+  <village>
+    <villageId>10005130005</villageId>
+    <villageName>西湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005130006</villageId>
+    <villageName>龍騰村</villageName>
+  </village>
+  <village>
+    <villageId>10005130007</villageId>
+    <villageName>鯉魚潭村</villageName>
+  </village>
+</villages>

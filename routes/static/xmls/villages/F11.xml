@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>65000290001</villageId>
+    <villageName>烏來里</villageName>
+  </village>
+  <village>
+    <villageId>65000290002</villageId>
+    <villageName>忠治里</villageName>
+  </village>
+  <village>
+    <villageId>65000290003</villageId>
+    <villageName>福山里</villageName>
+  </village>
+  <village>
+    <villageId>65000290004</villageId>
+    <villageName>信賢里</villageName>
+  </village>
+  <village>
+    <villageId>65000290005</villageId>
+    <villageName>孝義里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013180001</villageId>
+    <villageName>崁頂村</villageName>
+  </village>
+  <village>
+    <villageId>10013180002</villageId>
+    <villageName>園寮村</villageName>
+  </village>
+  <village>
+    <villageId>10013180003</villageId>
+    <villageName>圍內村</villageName>
+  </village>
+  <village>
+    <villageId>10013180004</villageId>
+    <villageName>力社村</villageName>
+  </village>
+  <village>
+    <villageId>10013180005</villageId>
+    <villageName>洲子村</villageName>
+  </village>
+  <village>
+    <villageId>10013180006</villageId>
+    <villageName>北勢村</villageName>
+  </village>
+  <village>
+    <villageId>10013180007</villageId>
+    <villageName>越溪村</villageName>
+  </village>
+  <village>
+    <villageId>10013180008</villageId>
+    <villageName>港東村</villageName>
+  </village>
+</villages>

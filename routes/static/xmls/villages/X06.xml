@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10016060001</villageId>
+    <villageName>東湖村</villageName>
+  </village>
+  <village>
+    <villageId>10016060002</villageId>
+    <villageName>西湖村</villageName>
+  </village>
+  <village>
+    <villageId>10016060003</villageId>
+    <villageName>中和村</villageName>
+  </village>
+  <village>
+    <villageId>10016060004</villageId>
+    <villageName>平和村</villageName>
+  </village>
+  <village>
+    <villageId>10016060005</villageId>
+    <villageName>海豐村</villageName>
+  </village>
+  <village>
+    <villageId>10016060006</villageId>
+    <villageName>南港村</villageName>
+  </village>
+</villages>

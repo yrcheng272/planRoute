@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10005140001</villageId>
+    <villageName>高埔村</villageName>
+  </village>
+  <village>
+    <villageId>10005140002</villageId>
+    <villageName>下埔村</villageName>
+  </village>
+  <village>
+    <villageId>10005140003</villageId>
+    <villageName>五湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005140004</villageId>
+    <villageName>四湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005140005</villageId>
+    <villageName>金獅村</villageName>
+  </village>
+  <village>
+    <villageId>10005140006</villageId>
+    <villageName>龍洞村</villageName>
+  </village>
+  <village>
+    <villageId>10005140007</villageId>
+    <villageName>三湖村</villageName>
+  </village>
+  <village>
+    <villageId>10005140008</villageId>
+    <villageName>湖東村</villageName>
+  </village>
+  <village>
+    <villageId>10005140009</villageId>
+    <villageName>二湖村</villageName>
+  </village>
+</villages>

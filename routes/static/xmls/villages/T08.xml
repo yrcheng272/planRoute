@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013080001</villageId>
+    <villageName>九清村</villageName>
+  </village>
+  <village>
+    <villageId>10013080002</villageId>
+    <villageName>九塊村</villageName>
+  </village>
+  <village>
+    <villageId>10013080003</villageId>
+    <villageName>九明村</villageName>
+  </village>
+  <village>
+    <villageId>10013080004</villageId>
+    <villageName>玉水村</villageName>
+  </village>
+  <village>
+    <villageId>10013080005</villageId>
+    <villageName>大坵村</villageName>
+  </village>
+  <village>
+    <villageId>10013080006</villageId>
+    <villageName>三塊村</villageName>
+  </village>
+  <village>
+    <villageId>10013080007</villageId>
+    <villageName>後庄村</villageName>
+  </village>
+  <village>
+    <villageId>10013080008</villageId>
+    <villageName>耆老村</villageName>
+  </village>
+  <village>
+    <villageId>10013080009</villageId>
+    <villageName>洽興村</villageName>
+  </village>
+  <village>
+    <villageId>10013080010</villageId>
+    <villageName>東寧村</villageName>
+  </village>
+  <village>
+    <villageId>10013080011</villageId>
+    <villageName>玉泉村</villageName>
+  </village>
+</villages>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10015110001</villageId>
+    <villageName>崇德村</villageName>
+  </village>
+  <village>
+    <villageId>10015110002</villageId>
+    <villageName>富世村</villageName>
+  </village>
+  <village>
+    <villageId>10015110003</villageId>
+    <villageName>秀林村</villageName>
+  </village>
+  <village>
+    <villageId>10015110004</villageId>
+    <villageName>水源村</villageName>
+  </village>
+  <village>
+    <villageId>10015110005</villageId>
+    <villageName>銅門村</villageName>
+  </village>
+  <village>
+    <villageId>10015110006</villageId>
+    <villageName>文蘭村</villageName>
+  </village>
+  <village>
+    <villageId>10015110007</villageId>
+    <villageName>景美村</villageName>
+  </village>
+  <village>
+    <villageId>10015110008</villageId>
+    <villageName>佳民村</villageName>
+  </village>
+  <village>
+    <villageId>10015110009</villageId>
+    <villageName>和平村</villageName>
+  </village>
+</villages>

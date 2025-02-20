@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000380001</villageId>
+    <villageName>達卡努瓦里</villageName>
+  </village>
+  <village>
+    <villageId>64000380002</villageId>
+    <villageName>瑪雅里</villageName>
+  </village>
+  <village>
+    <villageId>64000380003</villageId>
+    <villageName>南沙魯里</villageName>
+  </village>
+</villages>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10004120001</villageId>
+    <villageName>義興村</villageName>
+  </village>
+  <village>
+    <villageId>10004120002</villageId>
+    <villageName>嘉樂村</villageName>
+  </village>
+  <village>
+    <villageId>10004120003</villageId>
+    <villageName>新樂村</villageName>
+  </village>
+  <village>
+    <villageId>10004120004</villageId>
+    <villageName>梅花村</villageName>
+  </village>
+  <village>
+    <villageId>10004120005</villageId>
+    <villageName>錦屏村</villageName>
+  </village>
+  <village>
+    <villageId>10004120006</villageId>
+    <villageName>玉峰村</villageName>
+  </village>
+  <village>
+    <villageId>10004120007</villageId>
+    <villageName>秀巒村</villageName>
+  </village>
+</villages>

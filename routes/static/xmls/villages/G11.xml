@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10002110001</villageId>
+    <villageName>寒溪村</villageName>
+  </village>
+  <village>
+    <villageId>10002110002</villageId>
+    <villageName>崙埤村</villageName>
+  </village>
+  <village>
+    <villageId>10002110003</villageId>
+    <villageName>松羅村</villageName>
+  </village>
+  <village>
+    <villageId>10002110004</villageId>
+    <villageName>復興村</villageName>
+  </village>
+  <village>
+    <villageId>10002110005</villageId>
+    <villageName>英士村</villageName>
+  </village>
+  <village>
+    <villageId>10002110006</villageId>
+    <villageName>樂水村</villageName>
+  </village>
+  <village>
+    <villageId>10002110007</villageId>
+    <villageName>太平村</villageName>
+  </village>
+  <village>
+    <villageId>10002110008</villageId>
+    <villageName>四季村</villageName>
+  </village>
+  <village>
+    <villageId>10002110009</villageId>
+    <villageName>南山村</villageName>
+  </village>
+  <village>
+    <villageId>10002110010</villageId>
+    <villageName>茂安村</villageName>
+  </village>
+</villages>

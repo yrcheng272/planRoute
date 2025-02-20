@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10004110001</villageId>
+    <villageName>峨眉村</villageName>
+  </village>
+  <village>
+    <villageId>10004110002</villageId>
+    <villageName>中盛村</villageName>
+  </village>
+  <village>
+    <villageId>10004110003</villageId>
+    <villageName>石井村</villageName>
+  </village>
+  <village>
+    <villageId>10004110004</villageId>
+    <villageName>富興村</villageName>
+  </village>
+  <village>
+    <villageId>10004110005</villageId>
+    <villageName>七星村</villageName>
+  </village>
+  <village>
+    <villageId>10004110006</villageId>
+    <villageName>湖光村</villageName>
+  </village>
+</villages>

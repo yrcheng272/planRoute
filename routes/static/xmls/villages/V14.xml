@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014150001</villageId>
+    <villageName>台坂村</villageName>
+  </village>
+  <village>
+    <villageId>10014150002</villageId>
+    <villageName>土坂村</villageName>
+  </village>
+  <village>
+    <villageId>10014150003</villageId>
+    <villageName>新化村</villageName>
+  </village>
+  <village>
+    <villageId>10014150004</villageId>
+    <villageName>安朔村</villageName>
+  </village>
+  <village>
+    <villageId>10014150005</villageId>
+    <villageName>森永村</villageName>
+  </village>
+  <village>
+    <villageId>10014150006</villageId>
+    <villageName>南田村</villageName>
+  </village>
+</villages>

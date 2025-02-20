@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000360001</villageId>
+    <villageName>茂林里</villageName>
+  </village>
+  <village>
+    <villageId>64000360002</villageId>
+    <villageName>萬山里</villageName>
+  </village>
+  <village>
+    <villageId>64000360003</villageId>
+    <villageName>多納里</villageName>
+  </village>
+</villages>

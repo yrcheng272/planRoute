@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000160001</villageId>
+    <villageName>嘉誠里</villageName>
+  </village>
+  <village>
+    <villageId>64000160002</villageId>
+    <villageName>保社里</villageName>
+  </village>
+  <village>
+    <villageId>64000160003</villageId>
+    <villageName>大社里</villageName>
+  </village>
+  <village>
+    <villageId>64000160004</villageId>
+    <villageName>翠屏里</villageName>
+  </village>
+  <village>
+    <villageId>64000160005</villageId>
+    <villageName>三奶里</villageName>
+  </village>
+  <village>
+    <villageId>64000160006</villageId>
+    <villageName>觀音里</villageName>
+  </village>
+  <village>
+    <villageId>64000160007</villageId>
+    <villageName>神農里</villageName>
+  </village>
+  <village>
+    <villageId>64000160008</villageId>
+    <villageName>中里里</villageName>
+  </village>
+  <village>
+    <villageId>64000160009</villageId>
+    <villageName>保安里</villageName>
+  </village>
+</villages>

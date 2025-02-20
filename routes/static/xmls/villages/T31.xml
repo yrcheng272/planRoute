@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013310001</villageId>
+    <villageName>春日村</villageName>
+  </village>
+  <village>
+    <villageId>10013310002</villageId>
+    <villageName>古華村</villageName>
+  </village>
+  <village>
+    <villageId>10013310003</villageId>
+    <villageName>士文村</villageName>
+  </village>
+  <village>
+    <villageId>10013310004</villageId>
+    <villageName>七佳村</villageName>
+  </village>
+  <village>
+    <villageId>10013310005</villageId>
+    <villageName>歸崇村</villageName>
+  </village>
+  <village>
+    <villageId>10013310006</villageId>
+    <villageName>力里村</villageName>
+  </village>
+</villages>

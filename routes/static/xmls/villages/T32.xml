@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10013320001</villageId>
+    <villageName>楓林村</villageName>
+  </village>
+  <village>
+    <villageId>10013320002</villageId>
+    <villageName>丹路村</villageName>
+  </village>
+  <village>
+    <villageId>10013320003</villageId>
+    <villageName>草埔村</villageName>
+  </village>
+  <village>
+    <villageId>10013320004</villageId>
+    <villageName>內文村</villageName>
+  </village>
+  <village>
+    <villageId>10013320005</villageId>
+    <villageName>竹坑村</villageName>
+  </village>
+  <village>
+    <villageId>10013320006</villageId>
+    <villageName>獅子村</villageName>
+  </village>
+  <village>
+    <villageId>10013320007</villageId>
+    <villageName>內獅村</villageName>
+  </village>
+  <village>
+    <villageId>10013320008</villageId>
+    <villageName>南世村</villageName>
+  </village>
+</villages>

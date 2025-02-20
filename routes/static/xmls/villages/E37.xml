@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>64000370001</villageId>
+    <villageName>桃源里</villageName>
+  </village>
+  <village>
+    <villageId>64000370002</villageId>
+    <villageName>寶山里</villageName>
+  </village>
+  <village>
+    <villageId>64000370003</villageId>
+    <villageName>建山里</villageName>
+  </village>
+  <village>
+    <villageId>64000370004</villageId>
+    <villageName>高中里</villageName>
+  </village>
+  <village>
+    <villageId>64000370005</villageId>
+    <villageName>勤和里</villageName>
+  </village>
+  <village>
+    <villageId>64000370006</villageId>
+    <villageName>復興里</villageName>
+  </village>
+  <village>
+    <villageId>64000370007</villageId>
+    <villageName>拉芙蘭里</villageName>
+  </village>
+  <village>
+    <villageId>64000370008</villageId>
+    <villageName>梅山里</villageName>
+  </village>
+</villages>

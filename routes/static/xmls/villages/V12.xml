@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<villages>
+  <village>
+    <villageId>10014130001</villageId>
+    <villageName>武陵村</villageName>
+  </village>
+  <village>
+    <villageId>10014130002</villageId>
+    <villageName>永康村</villageName>
+  </village>
+  <village>
+    <villageId>10014130003</villageId>
+    <villageName>紅葉村</villageName>
+  </village>
+  <village>
+    <villageId>10014130004</villageId>
+    <villageName>鸞山村</villageName>
+  </village>
+  <village>
+    <villageId>10014130005</villageId>
+    <villageName>桃源村</villageName>
+  </village>
+</villages>
