@@ -36,7 +36,7 @@ def generateRoute(location, village_id):
         return False, 'OpenStreetMap裡面沒有資料QQ'
     except TypeError as msg:
         print(msg)
-        return False, 'OpenStreetMap裡面的資料只有一個點，不足以規劃路線QQ'
+        return False, 'OpenStreetMap沒有範圍資料，無法規劃路線QQ'
     # Simplifying the original directed multi-graph to undirected, so we can go both ways in one way streets
     graph = ox.convert.to_undirected(org_graph)
 
@@ -77,6 +77,9 @@ def generateRoute(location, village_id):
         center_lon=center_node["x"]
     )
 
+    if not os.path.exists('routes/data/'):
+        os.mkdir('routes/data/')
+    
     if not os.path.exists(f'routes/data/{village_id}/'):
         os.mkdir(f'routes/data/{village_id}/')
     
